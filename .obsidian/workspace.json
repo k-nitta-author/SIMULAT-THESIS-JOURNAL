@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "eca085c3d5619a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef24facba20d3753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a9037085a2fdfb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "91243ffd4c013d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feb/25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12d877b8f5d1eb9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5994dabe65857f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4eff39f3202530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fcc761ebd984006",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b25312aa227c4692",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a63e7a3bd919693d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d724e4e6ec89772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8b21bb9952005eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Feb/25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c69188b169f832a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Feb/25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7e441fb6c0b119e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92ff1da1d5e7a24c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Feb/25.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "91243ffd4c013d9b",
+  "lastOpenFiles": [
+    "Feb/25.md",
+    "SIMULAT-THESIS-JOURNAL/LICENSE",
+    "SIMULAT-THESIS-JOURNAL/README.md",
+    "SIMULAT-THESIS-JOURNAL",
+    "Simulat-THESIS-Journal/README.md",
+    "25.md",
+    "Simulat-THESIS-Journal/LICENSE",
+    "Simulat-THESIS-Journal",
+    "Feb"
+  ]
+}
